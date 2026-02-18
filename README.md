@@ -79,6 +79,6 @@ https://zenmux.ai AI聚合站，支持ai聊天、绘画等等，功能强大，�
 https://www.assistant-ui.com/examples/ 开源，无需登录。有很多ai网站的Clone（比如ChatGPT、Grok、Claude、Perplexity，还有一套自研UI，即AI SDK + Chat Persistence）。AI可用（但都接的是ChatGPT-5-nano），不保存对话（除了AI SDK + Chat Persistence页面），无其他功能，Demo性质<br>
 https://clone-claude.netlify.app  （由于原Vercel需要魔法，这是我在Netlify上部署的版本）无功能的Claude Clone版本，特别值得用来UI学习<br>
 https://demo6.goamzai.com/chat 模型很多，国内外都有，开源，功能强大，支持ai聊天、绘画等，可以用GitHub授权直接登录。初始赠送30积分，每日签到都能得积分<br>
-https://xiaoyi.huawei.com/ 华为推出的聊天助手，无需登录可以使用DeepSeek，未登录不保存对话
-https://app.chathub.gg/ 支持多模型、绘图等，功能强大，基础模型60次/月，高级模型6次/月，图片生成6次/月
+https://xiaoyi.huawei.com/ 华为推出的聊天助手，无需登录可以使用DeepSeek，未登录不保存对话<br>
+https://app.chathub.gg/ 支持多模型、绘图等，功能强大，基础模型60次/月，高级模型6次/月，图片生成6次/月<br>
 https://openrouter.ai/chat 经典聚合站，功能强大，有很多免费的模型，支持聊天、绘画等等，体验感很好
